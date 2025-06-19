@@ -1,0 +1,13 @@
+[project]
+name = "essay-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "openai-agents>=0.0.18",
+    "python-dotenv>=1.1.0",
+    "regex>=2024.11.6",
+    "streamlit>=1.46.0",
+    "unicodedata2>=16.0.0",
+]
